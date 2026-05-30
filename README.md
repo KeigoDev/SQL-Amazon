@@ -4,6 +4,10 @@
 
 https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
+## Tableau Public Dashboard 
+
+https://public.tableau.com/views/AmazonInsights_17589781396940/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Overview
 
 This project analyzes Amazon product ratings and review data to uncover insights that support business growth, customer satisfaction, and data-driven decision-making. Using SQL for data cleaning and transformation and Tableau for visualization, the project identifies high-performing product categories, quality improvement opportunities, marketing candidates, and customer engagement trends.
