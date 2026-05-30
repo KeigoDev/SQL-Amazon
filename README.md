@@ -1,5 +1,8 @@
 # Amazon Product Insights & Customer Experience Optimization Project
 
+##Dataset
+https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+
 ## Overview
 
 This project analyzes Amazon product ratings and review data to uncover insights that support business growth, customer satisfaction, and data-driven decision-making. Using SQL for data cleaning and transformation and Tableau for visualization, the project identifies high-performing product categories, quality improvement opportunities, marketing candidates, and customer engagement trends.
